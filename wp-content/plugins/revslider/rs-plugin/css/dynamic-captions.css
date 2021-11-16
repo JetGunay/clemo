@@ -1,0 +1,59 @@
+.tp-caption.black {
+color:#000;
+text-shadow:none;
+}
+
+.tp-caption.title {
+font-size:48px;
+font-weight:700;
+font-family:Montserrat;
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.sub {
+font-size:24px;
+font-weight:300;
+font-family:Montserrat Light;
+color:#000000;
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+text-align:center;
+line-height:1.4;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.btn {
+font-size:18px;
+font-family:"Montserrat Light";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(0, 0, 0);
+padding:10px 30px;
+text-shadow:none;
+border-radius:25px 25px 25px 25px;
+border-width:1px;
+border-color:rgb(0, 0, 0);
+border-style:solid;
+}
+
+.tp-caption.btn:hover {
+font-size:18px;
+font-family:"Montserrat Light";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:rgb(255, 203, 147);
+text-shadow:none;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
